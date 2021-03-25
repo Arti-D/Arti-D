@@ -21,4 +21,4 @@
 - email: dianagindullina24@gmail.com
 
 
-P. S.  I :purple_heart: :cookie:
+I :purple_heart: :cookie:
