@@ -17,5 +17,5 @@
 
 ### Связаться со мной
 
--[<img width="26px" alt="CSS3" src="<img width="26px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>] [https://t.me/arti_d]
--<img width="26px" alt="CSS3" src="<img width="26px" alt="CSS3" src="https://image.flaticon.com/icons/png/128/732/732200.png"/> dianagindullina24@gmail.com]
+- телеграм: https://t.me/arti_d
+- email: dianagindullina24@gmail.com
