@@ -19,3 +19,6 @@
 
 - телеграм: https://t.me/arti_d
 - email: dianagindullina24@gmail.com
+
+
+P. S. I:purple_heart::cookie:
