@@ -1,5 +1,14 @@
-### Hi there 👋
+## Пивет, я Диана :v:
+------
+- Хочу научиться 
+- Люблю работать в слаженое
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
 
+## Технологии
+
+<img width="26px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <!--
 **Arti-D/Arti-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
