@@ -1,15 +1,45 @@
-## Привет, я Диана :v:
-------
-Здесь вы найдете мои домашние проекты, проекты с учебы и различных курсов :sunglasses:
-### Технологии
+<h1 align="center">Hi, I'm Diana 👋</h1>
 
-<img width="30px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img width="26px" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img width="30px" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="30px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img width="30px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img width="30px" alt="webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
+<h3 align="center">Frontend Developer · Physics Student · Microcontroller Whisperer</h3>
 
-### Связаться со мной
+<p align="center">
+  I build interfaces by day and flash microcontrollers by night.<br/>
+  Finishing a physics degree while shipping real frontend products<br/>
+  because why choose between science and code?
+</p>
 
-- телеграм: https://t.me/arti_di
-- email: arti.cgd@yandex.com
+<br/>
+
+---
+
+### ⚡ About me
+
+- 💼 Frontend developer with commercial experience
+- 🎓 Physics student · coding microcontrollers in C at the uni lab
+- 🧠 Python for algorithms because some things just shouldn't be written in JS
+- 📱 Next up: exploring mobile development
+- 🎮 100% Metro 2033 on Steam. Yes, all achievements. Patience is a skill too.
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,next,css,sass,bootstrap,jquery)](https://skillicons.dev)
+
+**Tools & Workflow**
+
+[![Tools](https://skillicons.dev/icons?i=figma,webpack,vite,eslint)](https://skillicons.dev)
+
+**Also in the arsenal**
+
+[![Other](https://skillicons.dev/icons?i=python,nodejs,c)](https://skillicons.dev)
+
+---
+
+### 📬 Let's connect
+
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arti_di)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arti.cgd@yandex.com)
