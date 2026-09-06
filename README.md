@@ -1,45 +1,19 @@
 <h1 align="center">Hi, I'm Diana 👋</h1>
 
-<h3 align="center">Frontend Developer · Physics Student · Microcontroller Whisperer</h3>
+Photonics student at ITMO, currently exploring ML & statistics after wrapping up a research project in nanofabrication and a frontend internship at T-Bank.
 
-<p align="center">
-  I build interfaces by day and flash microcontrollers by night.<br/>
-  Finishing a physics degree while shipping real frontend products<br/>
-  because why choose between science and code?
-</p>
+The short version: I spent a year and a half building a nanoimprint lithography setup in a university lab, went from concept to working prototype, presented it at Moscow Startup Summit 2025. Somewhere along the way I realized what I actually enjoyed most wasn't the physical experiment itself, but the statistics and data analysis behind it.
 
-<br/>
+Since then I've been picking up ML properly: coursework on classical algorithms (regressions, SVM, trees, clustering, ensembles), and applying it hands-on. Currently looking for a research advisor to take this further for my thesis.
 
----
+**One thing I'd point to:** a credit default prediction project: compared Logistic Regression, Random Forest and XGBoost on imbalanced data (~7% defaults), XGBoost came out ahead at ROC-AUC 0.872 / PR-AUC 0.404. → [repo](https://github.com/Arti-D/credit-risk-project)
 
-### ⚡ About me
-
-- 💼 Frontend developer with commercial experience
-- 🎓 Physics student · coding microcontrollers in C at the uni lab
-- 🧠 Python for algorithms because some things just shouldn't be written in JS
-- 📱 Next up: exploring mobile development
-- 🎮 100% Metro 2033 on Steam. Yes, all achievements. Patience is a skill too.
+Frontend is still very much part of what I do: React/TypeScript, just finished an internship at T-Bank building analytics dashboards and event tracking. It's actually where my interest in data started.
 
 ---
 
-### 🛠 Tech Stack
+**Stack:** Python (pandas, numpy, scikit-learn, XGBoost), SQL · React, TypeScript, Next.js · Git, Docker
 
-**Frontend**
+**Contact:** [Telegram](https://t.me/arti_di) · [Email](mailto:arti.cgd@yandex.com)
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,next,css,sass,bootstrap,jquery)](https://skillicons.dev)
-
-**Tools & Workflow**
-
-[![Tools](https://skillicons.dev/icons?i=figma,webpack,vite,eslint)](https://skillicons.dev)
-
-**Also in the arsenal**
-
-[![Other](https://skillicons.dev/icons?i=python,nodejs,c)](https://skillicons.dev)
-
----
-
-### 📬 Let's connect
-
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arti_di)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arti.cgd@yandex.com)
+*(also: 100% completed Metro 2033 on Steam :) patience is apparently a transferable skill)*
